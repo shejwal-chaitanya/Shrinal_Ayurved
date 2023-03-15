@@ -1,0 +1,18 @@
+Medicine -
+	Time Period: 15 or 30
+	Dosage: OD, BD, TDS, HS, 2TDS, 2BD
+
+Fees -
+	New: 300
+	Existing: 200
+
+Reference -
+	Social Media, M2M, Friends, Self, Others
+
+Prakruti -
+	1. Vataj-Pitta
+	2. Vataj-Kapha
+	3. Pittaj-Vata
+	4. Pittaj-Kapha
+	5. Kaphaj-Vata
+	6. Kaphaj-Pitta
